@@ -1,0 +1,14 @@
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\bin\Release\netcoreapp2.1\backend_ImagineHack2019.deps.json
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\bin\Release\netcoreapp2.1\backend_ImagineHack2019.runtimeconfig.json
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\bin\Release\netcoreapp2.1\backend_ImagineHack2019.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\bin\Release\netcoreapp2.1\backend_ImagineHack2019.dll
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\bin\Release\netcoreapp2.1\backend_ImagineHack2019.pdb
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.RazorAssemblyInfo.cache
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.RazorAssemblyInfo.cs
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.AssemblyInfo.cs
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.RazorTargetAssemblyInfo.cache
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.dll
+C:\Users\Adam\Desktop\KODOWANIE\Hackatony\ImagineHack2019_projekt\Backend\backend_ImagineHack2019\backend_ImagineHack2019\obj\Release\netcoreapp2.1\backend_ImagineHack2019.pdb

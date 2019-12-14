@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="backendImagineHack201920191214093159" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Adam\\Desktop\\KODOWANIE\\Hackatony\\ImagineHack2019_projekt\\Backend\\backend_ImagineHack2019\\backend_ImagineHack2019\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
